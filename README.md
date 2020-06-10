@@ -8,5 +8,3 @@ To create a new project based on this template using [degit](https://github.com/
 npx degit si87/svelte-tailwind-jest-starter my-app
 cd my-app
 ```
-
-

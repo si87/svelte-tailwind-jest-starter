@@ -1,5 +1,5 @@
 {
-  "name": "svelte-tailwind-jest-starter",
+  "name": "svelte-app",
   "version": "1.0.0",
   "scripts": {
     "build": "rollup -c",
@@ -13,10 +13,10 @@
     "@fullhuman/postcss-purgecss": "^2.2.0",
     "@rollup/plugin-commonjs": "^12.0.0",
     "@rollup/plugin-node-resolve": "^8.0.0",
-    "@testing-library/dom": "^7.5.9",
+    "@testing-library/dom": "^7.11.0",
     "@testing-library/svelte": "^3.0.0",
     "jest": "^26.0.1",
-    "postcss": "^7.0.31",
+    "postcss": "^7.0.32",
     "postcss-load-config": "^2.1.0",
     "rollup": "^2.3.4",
     "rollup-plugin-livereload": "^1.0.0",
@@ -24,7 +24,7 @@
     "rollup-plugin-terser": "^5.1.2",
     "svelte": "^3.0.0",
     "svelte-jester": "^1.0.6",
-    "svelte-preprocess": "^3.7.4",
+    "svelte-preprocess": "^3.9.7",
     "tailwindcss": "^1.4.6"
   },
   "dependencies": {
